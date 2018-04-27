@@ -1,7 +1,96 @@
 p{
 background-color: #fff;
 	padding: 5px;
-	width: 30%;
+	width: 50%;
 	border-radius: 5px;
-	margin-right:auto;
+	margin-right:inherit;
+
+}
+
+.midget{
+    height: 250px;
+    width: 360px;
+    
+}
+
+.ak{
+    height: 220px;
+    width: 360px;
+    
+}
+
+.film1{
+    height: 250px;
+    width: 360px;
+    
+}
+
+.slime{
+    height: 250px;
+    width: 360px;
+    
+}
+
+.bom{
+    height: 250px;
+    width: 360px;
+    
+}
+
+.tugg{
+    height: 170px;
+    width: 170px;
+    
+}
+
+.glass{
+    height: 170px;
+    width: 170px;
+    
+}
+
+.slajm{
+    height: 250px;
+    width: 280px;
+}
+
+.flwrs{
+    height: 80px;
+    width: 80px;
+}
+
+.bp{
+    height: 80px;
+    width: 80px;
+}
+
+
+.rubot{
+    height: 150px;
+    width: 150px;
+}
+
+.klbglss{
+    height: 150px;
+    width: 150px;
+}
+
+.ans{
+    height: 80px;
+    width: 80px;
+}
+
+.slamj{
+    height: 150px;
+    width: 150px;
+}
+
+.spnr{
+    height: 150px;
+    width: 150px;
+    }
+
+.gn{
+    height: 220px;
+    width: 360px;
 }
